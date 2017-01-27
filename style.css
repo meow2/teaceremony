@@ -96,8 +96,11 @@ header h1 {
 .red {
 	color:red;
 }
-.progreee {
+.progress {
 	color:red;
+}
+#sending_gif{
+	width:200px;
 }
 
 /*================================================
@@ -114,4 +117,7 @@ header h1 {
 }
 img {
 	width:100%;
+}
+#sending_gif {
+	width:50%;
 }
